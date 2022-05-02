@@ -1,2 +1,2 @@
-# GH_hmg
+# Hello World!
 GitHub repository  
